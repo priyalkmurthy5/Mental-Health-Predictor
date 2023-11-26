@@ -4,5 +4,6 @@ Major goal of this project is to optimize treatment decision-making, increase th
 Additionally, the project aims at exploring and quantifying the mutual influences between features like age, physical health factors and mental health treatment, which is achieved by conducting exhaustive analysis of every feature and visualizing the correlation.
 
 Final Result
-![image](https://github.com/priyalkmurthy5/Mental-Health-Predictor/assets/69590799/14dbd886-d075-4220-935d-82eee8a638fb)
+![image](https://github.com/priyalkmurthy5/Mental-Health-Predictor/assets/69590799/23d9e28d-a60f-457e-a8a9-9bf09bd0accd)
+
 
